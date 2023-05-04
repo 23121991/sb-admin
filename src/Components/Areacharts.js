@@ -4,7 +4,7 @@ import {Charts as Chartjs} from "chart.js/auto";
 
 
 function Areacharts({charData}){
-return  <Line data={charData}  />
+return  <Line data={charData} />
 }
 
 export default Areacharts;
