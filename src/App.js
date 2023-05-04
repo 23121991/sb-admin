@@ -1,4 +1,5 @@
 import React,{useEffect,useState} from 'react';
+import './App.css';
 import { BrowserRouter, Route, Routes, Link, useNavigate, Outlet, } from 'react-router-dom';
 import Dashboard from './Dashboard';
 import Buttons from './Buttons';
